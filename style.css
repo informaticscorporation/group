@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#inizio{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+#container-titolo{
+    display: flex;
+    justify-content: center;
+}
+#container{
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+}
